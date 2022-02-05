@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
 This project is just a basic bank management website using MERN.
-Frontend - https://basic-bank-management.netlify.app/ 
-Backend - https://basic-banking-app-backend.herokuapp.com/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend - https://basic-bank-management.netlify.app/ 
+
+Backend - https://basic-banking-app-backend.herokuapp.com/
 
 ## Available Scripts
 
